@@ -8,3 +8,6 @@ For collecting data that will be used in the NN firstly run data_collecting.py c
 For NN taining firstly Run NN_training.py and  depend on the parameters chosen, it will take some time to train. After training, model will be saved in “mlp_xml” folder. 
 For stop sign and traffic lamp trained datas has been uploaded. You can use them easily. 
 for self driving firstly run self-driving.py on your host computer, then, distance .py and video.py on your raspberry pi. now you are ready Self Driving 
+
+
+Video : https://www.youtube.com/watch?v=skb1Gg1UJPY
